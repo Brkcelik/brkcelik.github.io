@@ -1,7 +1,10 @@
 *{
     font-family: "Roboto", sans-serif;
 }
-
+html, body {
+  padding: 0;
+  margin: 0;
+}
 header{
     background-color: rgb(186, 195, 211);
     color: beige;
